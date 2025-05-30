@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=ShangguInter
+name=尚古黑体合并Inter英数可变字体
+version=Shanggu 1.021 & Inter 4.1
+versionCode=1
+author=gczcn (github.com/gczcn)
+description=尚古黑体合并Inter英数并用遍黑体补全，主字体可变（仅支持未魔改过字体的类原生 ROM），以下是所有使用到的开源项目的网址：https://github.com/GuiWonder/Shanggu, https://github.com/rsms/inter, https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project, https://github.com/lxgw/simple-cjk-font-magisk-module-template, https://github.com/MrCarb0n/killgmsfont.
