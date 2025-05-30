@@ -1,4 +1,6 @@
 # Shanggu-Inter-Magisk-Module
+> 暂未完成
+
 > **警告**：刷入 Magisk 模块可能会导致系统无法启动，甚至是设备永久损坏。请在操作前谨慎考虑。因操作不当导致的问题与本模块无关。建议刷入此模块前准备好旧砖模块以防设备无法开机或损坏。
 >   
 > 此模块在未经修改的情况下只适用于未对字体魔改的类原生 ROM ，如需在其他 ROM 上使用，可以参照[字体模版的仓库](https://github.com/lxgw/simple-cjk-font-magisk-module-template)中对此的说明。
